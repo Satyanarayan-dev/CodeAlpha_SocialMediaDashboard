@@ -9,7 +9,8 @@
 # Technologies Used
 - HTML5 
 - CSS3 
-- JavaScript 
+- JavaScript
+- Bootstrap Icons and Material Icons
 
 # Contributing
 - Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
