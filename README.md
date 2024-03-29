@@ -7,9 +7,9 @@
 - All feeds of your social media here.
 
 # Technologies Used
--- HTML5 
--- CSS3 
--- JavaScript 
+- HTML5 
+- CSS3 
+- JavaScript 
 
 # Contributing
 - Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
